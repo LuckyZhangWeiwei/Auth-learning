@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication", "Authentic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization", "..\Authorization\Authorization.csproj", "{BB7D28F7-1695-0E38-B6A8-0650A3B739B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roles", "..\Roles\Roles.csproj", "{1AAEF364-7D14-48A0-8774-0127989EB787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolesIdentity", "..\RolesIdentity\RolesIdentity.csproj", "{A0D14C26-AC16-47F5-8B0F-653C44560476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BB7D28F7-1695-0E38-B6A8-0650A3B739B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB7D28F7-1695-0E38-B6A8-0650A3B739B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB7D28F7-1695-0E38-B6A8-0650A3B739B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAEF364-7D14-48A0-8774-0127989EB787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAEF364-7D14-48A0-8774-0127989EB787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAEF364-7D14-48A0-8774-0127989EB787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAEF364-7D14-48A0-8774-0127989EB787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D14C26-AC16-47F5-8B0F-653C44560476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D14C26-AC16-47F5-8B0F-653C44560476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D14C26-AC16-47F5-8B0F-653C44560476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D14C26-AC16-47F5-8B0F-653C44560476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
