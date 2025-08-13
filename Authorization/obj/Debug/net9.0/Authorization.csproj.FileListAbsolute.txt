@@ -20,7 +20,6 @@ C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\stat
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\Authorization.dll
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\refint\Authorization.dll
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\Authorization.pdb

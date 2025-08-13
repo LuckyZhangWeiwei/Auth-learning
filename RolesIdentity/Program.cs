@@ -11,15 +11,18 @@ builder.Services.AddDbContext<IdentityDbContext>(c => c.UseInMemoryDatabase("my_
 builder.Services.AddAuthorization();
 builder.Services.AddControllers();
 
-builder.Services.AddIdentity<IdentityUser, IdentityRole>(o => {
-    o.User.RequireUniqueEmail = false;
-    o.Password.RequireDigit = false;
-    o.Password.RequiredLength = 4;
-    o.Password.RequireUppercase = false;
-    o.Password.RequireLowercase = false;
-    o.Password.RequireNonAlphanumeric = false;
-}).AddEntityFrameworkStores<IdentityDbContext>()
-.AddDefaultTokenProviders();
+builder
+    .Services.AddIdentity<IdentityUser, IdentityRole>(o =>
+    {
+        o.User.RequireUniqueEmail = false;
+        o.Password.RequireDigit = false;
+        o.Password.RequiredLength = 4;
+        o.Password.RequireUppercase = false;
+        o.Password.RequireLowercase = false;
+        o.Password.RequireNonAlphanumeric = false;
+    })
+    .AddEntityFrameworkStores<IdentityDbContext>()
+    .AddDefaultTokenProviders();
 
 var app = builder.Build();
 
@@ -34,7 +37,7 @@ using (var scope = app.Services.CreateScope())
     await usrMgr.AddToRoleAsync(user, "admin");
 }
 
-    // Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
 
 app.UseAuthorization();
 app.MapControllers();

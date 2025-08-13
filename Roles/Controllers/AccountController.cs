@@ -1,5 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.Security.Claims;
+﻿using System.Security.Claims;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Roles.Controllers
 {
@@ -8,15 +8,18 @@ namespace Roles.Controllers
         [HttpGet("/login")]
         public IActionResult Login() =>
             SignIn(
-                new ClaimsPrincipal(new ClaimsIdentity([
-                new Claim(ClaimTypes.NameIdentifier, Guid.NewGuid().ToString()),
-                new Claim("my_role_claim_extravaganza", "admin"),
-                ], 
-                    "cookie",
-                nameType:null,
-                roleType: "my_role_claim_extravaganza"
-                )), authenticationScheme:"cookie"
-               
-                );
+                new ClaimsPrincipal(
+                    new ClaimsIdentity(
+                        [
+                            new Claim(ClaimTypes.NameIdentifier, Guid.NewGuid().ToString()),
+                            new Claim("my_role_claim_extravaganza", "admin"),
+                        ],
+                        "cookie",
+                        nameType: null,
+                        roleType: "my_role_claim_extravaganza"
+                    )
+                ),
+                authenticationScheme: "cookie"
+            );
     }
 }

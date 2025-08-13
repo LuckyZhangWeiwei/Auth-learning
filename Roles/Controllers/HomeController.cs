@@ -9,7 +9,7 @@ namespace Roles.Controllers
         public string Index() => "Index Route";
 
         [HttpGet("/secret")]
-        [Authorize(Roles="admin")]
+        [Authorize(Roles = "admin")]
         public string Secret() => "Secret Route";
     }
 }
