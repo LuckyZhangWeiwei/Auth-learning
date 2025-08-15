@@ -25,3 +25,4 @@ C:\Users\nxf83192\source\repos\Auth-learning\Roles\obj\Debug\net9.0\refint\Roles
 C:\Users\nxf83192\source\repos\Auth-learning\Roles\obj\Debug\net9.0\Roles.pdb
 C:\Users\nxf83192\source\repos\Auth-learning\Roles\obj\Debug\net9.0\Roles.genruntimeconfig.cache
 C:\Users\nxf83192\source\repos\Auth-learning\Roles\obj\Debug\net9.0\ref\Roles.dll
+C:\Users\nxf83192\source\repos\Auth-learning\Roles\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "section4", "section4", "{02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationSchemas", "..\AuthenticationSchemas\AuthenticationSchemas.csproj", "{5E5B898D-56A6-4302-83F3-259D48AB19EC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "section5", "section5", "{819AAF65-330C-4C08-8C12-CBD6B7CC68DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityManagement", "..\IdentityManagement\IdentityManagement.csproj", "{39455F9F-9EC0-E33C-2EBB-726EA4E34B01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,12 +45,17 @@ Global
 		{5E5B898D-56A6-4302-83F3-259D48AB19EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E5B898D-56A6-4302-83F3-259D48AB19EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E5B898D-56A6-4302-83F3-259D48AB19EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39455F9F-9EC0-E33C-2EBB-726EA4E34B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39455F9F-9EC0-E33C-2EBB-726EA4E34B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39455F9F-9EC0-E33C-2EBB-726EA4E34B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39455F9F-9EC0-E33C-2EBB-726EA4E34B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5E5B898D-56A6-4302-83F3-259D48AB19EC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{39455F9F-9EC0-E33C-2EBB-726EA4E34B01} = {819AAF65-330C-4C08-8C12-CBD6B7CC68DA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26F5E0F4-B11D-4F4A-8024-A2186903E762}

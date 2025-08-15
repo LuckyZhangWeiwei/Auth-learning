@@ -25,3 +25,4 @@ C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\refi
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\Authorization.pdb
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\Authorization.genruntimeconfig.cache
 C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\ref\Authorization.dll
+C:\Users\nxf83192\source\repos\Auth-learning\Authorization\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
