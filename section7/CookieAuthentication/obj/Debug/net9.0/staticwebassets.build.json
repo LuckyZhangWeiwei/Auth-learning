@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "fMUSmd1E6Dn7Rdk05cvr7YTXicApCL0r6yG0th7KXuY=",
+  "Source": "CookieAuthentication",
+  "BasePath": "_content/CookieAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CookieAuthentication\\wwwroot",
+      "Source": "CookieAuthentication",
+      "ContentRoot": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\",
+      "BasePath": "_content/CookieAuthentication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\46hzw5ytu1-31zaox8awc.gz",
+      "SourceId": "CookieAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CookieAuthentication",
+      "RelativePath": "mvc#[.{fingerprint=31zaox8awc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\mvc.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t5u5cxreyl",
+      "Integrity": "8QdbHeiWXjYNPGUN05LHVW76YhmYLKbEyFdwZxjRT+o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\mvc.html"
+    },
+    {
+      "Identity": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\4pok4otxvc-l67g6vjand.gz",
+      "SourceId": "CookieAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CookieAuthentication",
+      "RelativePath": "test/js#[.{fingerprint=l67g6vjand}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\test\\js.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kl6dzqvgax",
+      "Integrity": "WAJsodwj84D6R5CJd8Q6+yPgnVlKBWCKOgdW/73Thmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\test\\js.html"
+    },
+    {
+      "Identity": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\bi1z5j664l-btyqbk6w45.gz",
+      "SourceId": "CookieAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CookieAuthentication",
+      "RelativePath": "js#[.{fingerprint=btyqbk6w45}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\js.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v3ea8znlvl",
+      "Integrity": "FXZ+bVG4uKvFmHMgUs9AxabY1vYKnfFGkMNegyPlJYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\js.html"
+    },
+    {
+      "Identity": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\js.html",
+      "SourceId": "CookieAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\",
+      "BasePath": "_content/CookieAuthentication",
+      "RelativePath": "js#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "btyqbk6w45",
+      "Integrity": "v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js.html"
+    },
+    {
+      "Identity": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\mvc.html",
+      "SourceId": "CookieAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\",
+      "BasePath": "_content/CookieAuthentication",
+      "RelativePath": "mvc#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "31zaox8awc",
+      "Integrity": "KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mvc.html"
+    },
+    {
+      "Identity": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\test\\js.html",
+      "SourceId": "CookieAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\",
+      "BasePath": "_content/CookieAuthentication",
+      "RelativePath": "test/js#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l67g6vjand",
+      "Integrity": "XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\test\\js.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "js.btyqbk6w45.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\bi1z5j664l-btyqbk6w45.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005405405405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXZ+bVG4uKvFmHMgUs9AxabY1vYKnfFGkMNegyPlJYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 08:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "btyqbk6w45"
+        },
+        {
+          "Name": "label",
+          "Value": "js.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ="
+        }
+      ]
+    },
+    {
+      "Route": "js.btyqbk6w45.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\js.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 08:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "btyqbk6w45"
+        },
+        {
+          "Name": "label",
+          "Value": "js.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ="
+        }
+      ]
+    },
+    {
+      "Route": "js.btyqbk6w45.html.gz",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\bi1z5j664l-btyqbk6w45.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXZ+bVG4uKvFmHMgUs9AxabY1vYKnfFGkMNegyPlJYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 08:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "btyqbk6w45"
+        },
+        {
+          "Name": "label",
+          "Value": "js.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXZ+bVG4uKvFmHMgUs9AxabY1vYKnfFGkMNegyPlJYo="
+        }
+      ]
+    },
+    {
+      "Route": "js.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\bi1z5j664l-btyqbk6w45.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005405405405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXZ+bVG4uKvFmHMgUs9AxabY1vYKnfFGkMNegyPlJYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 08:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ="
+        }
+      ]
+    },
+    {
+      "Route": "js.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\js.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 08:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v01c/65Yjk5pzyz1waKp+EwA58GugavGeK6gyG0EAIQ="
+        }
+      ]
+    },
+    {
+      "Route": "js.html.gz",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\bi1z5j664l-btyqbk6w45.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXZ+bVG4uKvFmHMgUs9AxabY1vYKnfFGkMNegyPlJYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 08:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXZ+bVG4uKvFmHMgUs9AxabY1vYKnfFGkMNegyPlJYo="
+        }
+      ]
+    },
+    {
+      "Route": "mvc.31zaox8awc.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\46hzw5ytu1-31zaox8awc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005780346821"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QdbHeiWXjYNPGUN05LHVW76YhmYLKbEyFdwZxjRT+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 03:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31zaox8awc"
+        },
+        {
+          "Name": "label",
+          "Value": "mvc.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc="
+        }
+      ]
+    },
+    {
+      "Route": "mvc.31zaox8awc.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\mvc.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 03:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31zaox8awc"
+        },
+        {
+          "Name": "label",
+          "Value": "mvc.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc="
+        }
+      ]
+    },
+    {
+      "Route": "mvc.31zaox8awc.html.gz",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\46hzw5ytu1-31zaox8awc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QdbHeiWXjYNPGUN05LHVW76YhmYLKbEyFdwZxjRT+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 03:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31zaox8awc"
+        },
+        {
+          "Name": "label",
+          "Value": "mvc.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QdbHeiWXjYNPGUN05LHVW76YhmYLKbEyFdwZxjRT+o="
+        }
+      ]
+    },
+    {
+      "Route": "mvc.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\46hzw5ytu1-31zaox8awc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005780346821"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QdbHeiWXjYNPGUN05LHVW76YhmYLKbEyFdwZxjRT+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 03:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc="
+        }
+      ]
+    },
+    {
+      "Route": "mvc.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\mvc.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 03:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfT6k8//VNrWpb2lrnuKKXp544fdI+nFkcQcK1RDnfc="
+        }
+      ]
+    },
+    {
+      "Route": "mvc.html.gz",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\46hzw5ytu1-31zaox8awc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QdbHeiWXjYNPGUN05LHVW76YhmYLKbEyFdwZxjRT+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 03:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QdbHeiWXjYNPGUN05LHVW76YhmYLKbEyFdwZxjRT+o="
+        }
+      ]
+    },
+    {
+      "Route": "test/js.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\4pok4otxvc-l67g6vjand.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005050505051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "197"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WAJsodwj84D6R5CJd8Q6+yPgnVlKBWCKOgdW/73Thmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 04:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0="
+        }
+      ]
+    },
+    {
+      "Route": "test/js.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\test\\js.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 04:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0="
+        }
+      ]
+    },
+    {
+      "Route": "test/js.html.gz",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\4pok4otxvc-l67g6vjand.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WAJsodwj84D6R5CJd8Q6+yPgnVlKBWCKOgdW/73Thmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 04:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WAJsodwj84D6R5CJd8Q6+yPgnVlKBWCKOgdW/73Thmk="
+        }
+      ]
+    },
+    {
+      "Route": "test/js.l67g6vjand.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\4pok4otxvc-l67g6vjand.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005050505051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "197"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WAJsodwj84D6R5CJd8Q6+yPgnVlKBWCKOgdW/73Thmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 04:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l67g6vjand"
+        },
+        {
+          "Name": "label",
+          "Value": "test/js.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0="
+        }
+      ]
+    },
+    {
+      "Route": "test/js.l67g6vjand.html",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\test\\js.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 04:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l67g6vjand"
+        },
+        {
+          "Name": "label",
+          "Value": "test/js.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XdqGOsesEspzAVoN2/gLCiKsGbBTTy/KjHIkcmy56o0="
+        }
+      ]
+    },
+    {
+      "Route": "test/js.l67g6vjand.html.gz",
+      "AssetFile": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\obj\\Debug\\net9.0\\compressed\\4pok4otxvc-l67g6vjand.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WAJsodwj84D6R5CJd8Q6+yPgnVlKBWCKOgdW/73Thmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 04:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l67g6vjand"
+        },
+        {
+          "Name": "label",
+          "Value": "test/js.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WAJsodwj84D6R5CJd8Q6+yPgnVlKBWCKOgdW/73Thmk="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\js.html",
+      "PackagePath": "staticwebassets\\js.html"
+    },
+    {
+      "Id": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\mvc.html",
+      "PackagePath": "staticwebassets\\mvc.html"
+    },
+    {
+      "Id": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\wwwroot\\test\\js.html",
+      "PackagePath": "staticwebassets\\test\\js.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CookieAuthentication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CookieAuthentication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CookieAuthentication.props",
+      "PackagePath": "build\\CookieAuthentication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CookieAuthentication.props",
+      "PackagePath": "buildMultiTargeting\\CookieAuthentication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CookieAuthentication.props",
+      "PackagePath": "buildTransitive\\CookieAuthentication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

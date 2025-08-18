@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hGmCdRpmvA=",
+  "success": true,
+  "projectFilePath": "D:\\dotnet\\Auth-learning\\section7\\CookieAuthentication\\CookieAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhang\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-rc.1.24452.1\\microsoft.aspnetcore.openapi.9.0.0-rc.1.24452.1.nupkg.sha512",
+    "C:\\Users\\zhang\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

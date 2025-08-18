@@ -2,9 +2,12 @@ using System.Security.Claims;
 using IdentityManagement;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddDefaultTokenProviders();
 
 // Add services to the container.
 builder
@@ -33,7 +36,11 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapGet("/", () => "hello world");
+
 app.MapGet("/protected", () => "sth super secret").RequireAuthorization("manager");
+
+app.MapGet("/test", (SignInManager<IdentityUser> signMgr, UserManager<IdentityUser> userMgr) => {
+});
 
 app.MapGet(
     "/register",
@@ -77,6 +84,7 @@ app.MapGet(
         {
             return "bad credentials";
         }
+
         await ctx.SignInAsync(
             CookieAuthenticationDefaults.AuthenticationScheme,
             UserHelper.Convert(user)
@@ -106,20 +114,34 @@ app.MapGet(
 
 app.MapGet(
     "/start-password-reset",
-    async (string username, Database db) =>
+    async (string username, Database db, IDataProtectionProvider provider) =>
     {
+        var protector = provider.CreateProtector("PasswordReset");
+
         var user = await db.GetUserAsync(username);
 
-        if (user == null)
-            return "username error";
+        return protector.Protect(user.Username);
+    }
+);
 
-        user.Claims.Add(new UserClaim { Type = "role", Value = "manager" });
+app.MapGet(
+    "/end-password-reset",
+    async (string username, string password, string hash, Database db, IPasswordHasher<User> hasher,
+        IDataProtectionProvider provider) =>
+    {
+        var protector = provider.CreateProtector("PasswordReset");
+        var hashUsername = protector.Unprotect(hash);
 
-        if (user == null)
+        if (hashUsername != username)
+        {
             return "username error";
+        }
+
+        var user = await db.GetUserAsync(username);
+        user.PasswordHash = hasher.HashPassword(user, password);
         await db.PutAsync(user);
 
-        return "promoted";
+        return "passowrd reset";
     }
 );
 
