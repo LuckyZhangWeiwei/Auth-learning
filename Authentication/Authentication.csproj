@@ -8,6 +8,27 @@
 
   <ItemGroup>
     <None Remove="Program - Copy.txt" />
+    <None Update="Identity\WebApplication1.http">
+      <Link>WebApplication1\WebApplication1.http</Link>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Identity\Program.cs">
+      <Link>WebApplication1\Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Identity\Properties\launchSettings.json">
+      <Link>WebApplication1\Properties\launchSettings.json</Link>
+    </Content>
+    <Content Update="Identity\appsettings.json">
+      <Link>WebApplication1\appsettings.json</Link>
+    </Content>
+    <Content Update="Identity\appsettings.Development.json">
+      <Link>WebApplication1\appsettings.Development.json</Link>
+    </Content>
   </ItemGroup>
 
 </Project>
