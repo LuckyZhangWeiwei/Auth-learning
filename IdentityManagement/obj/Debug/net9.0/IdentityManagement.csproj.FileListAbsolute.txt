@@ -55,3 +55,14 @@ D:\dotnet\Auth-learning\IdentityManagement\obj\Debug\net9.0\refint\IdentityManag
 D:\dotnet\Auth-learning\IdentityManagement\obj\Debug\net9.0\IdentityManagement.pdb
 D:\dotnet\Auth-learning\IdentityManagement\obj\Debug\net9.0\IdentityManagement.genruntimeconfig.cache
 D:\dotnet\Auth-learning\IdentityManagement\obj\Debug\net9.0\ref\IdentityManagement.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\dotnet\Auth-learning\IdentityManagement\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\dotnet\Auth-learning\IdentityManagement\obj\Debug\net9.0\IdentityManagement.csproj.AssemblyReference.cache
+D:\dotnet\Auth-learning\IdentityManagement\obj\Debug\net9.0\Identity.C7002CAD.Up2Date

@@ -1,0 +1,15 @@
+D:\dotnet\Auth-learning\section12\KeyGen\bin\Debug\net9.0\KeyGen.exe
+D:\dotnet\Auth-learning\section12\KeyGen\bin\Debug\net9.0\KeyGen.deps.json
+D:\dotnet\Auth-learning\section12\KeyGen\bin\Debug\net9.0\KeyGen.runtimeconfig.json
+D:\dotnet\Auth-learning\section12\KeyGen\bin\Debug\net9.0\KeyGen.dll
+D:\dotnet\Auth-learning\section12\KeyGen\bin\Debug\net9.0\KeyGen.pdb
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\KeyGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\KeyGen.AssemblyInfoInputs.cache
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\KeyGen.AssemblyInfo.cs
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\KeyGen.csproj.CoreCompileInputs.cache
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\KeyGen.sourcelink.json
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\KeyGen.dll
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\refint\KeyGen.dll
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\KeyGen.pdb
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\KeyGen.genruntimeconfig.cache
+D:\dotnet\Auth-learning\section12\KeyGen\obj\Debug\net9.0\ref\KeyGen.dll

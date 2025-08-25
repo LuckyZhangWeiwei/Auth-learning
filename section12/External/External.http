@@ -1,0 +1,6 @@
+@External_HostAddress = http://localhost:5274
+
+GET {{External_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

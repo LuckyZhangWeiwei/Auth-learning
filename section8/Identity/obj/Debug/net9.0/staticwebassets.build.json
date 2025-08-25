@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "550HxGIq6MSSUmL8z6EjIJf5DfZtsjAXcF0RydUEkoc=",
+  "Source": "Identity",
+  "BasePath": "_content/Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
